@@ -6,7 +6,7 @@ import Technology from "./components/Technology";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter> 
       <>
         <Routes>
           <Route path="/" element={<Home />} />       
